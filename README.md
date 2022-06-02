@@ -10,4 +10,4 @@ Barra de progresso circular
 
 ## Visualização
 
-<img src="">
+<img src="Video_1654195077.gif">
